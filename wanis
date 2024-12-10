@@ -1,0 +1,15 @@
+module PokerAssistant
+  class Calculateur
+    def calculer_cotes(cartes_joueur, cartes_communes, nombre_adversaires)
+      # Implémentez la logique de calcul des cotes ici
+      # ...
+    end
+  end
+
+  class Analyseur
+    def analyser_main(cartes_joueur, cartes_communes, position, actions_precedentes, style_de_jeu)
+      # Implémentez la logique d'analyse de main ici
+      # ...
+    end
+  end
+end
